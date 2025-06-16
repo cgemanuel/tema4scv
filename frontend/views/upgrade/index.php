@@ -1,5 +1,6 @@
 <?php
 /* @var $this yii\web\View */
+/* ALERTA DE UPGRATE NECESARIA DEPENDIENDO DELESTADO DE PERFIL*/
 ?>
 
 <?php if ($persona): ?>
